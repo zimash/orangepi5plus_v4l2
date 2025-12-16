@@ -25,3 +25,5 @@ $ tio -b 1500000 /dev/ttyUSB0
 
 Полезные ссылки:
 - [v4l2-ctl - Man Page](https://www.mankier.com/1/v4l2-ctl)
+- [My orange pi 5 plus is almost perfect. I can use OBS to stream from hdmirx with both video and audio. The only thing left is the onboard mic that still doesn't work. ](https://www.reddit.com/r/OrangePI/comments/1nxwaar/my_orange_pi_5_plus_is_almost_perfect_i_can_use/)
+- [OBS Studio 32.0.0 for Rockchip](https://github.com/MecoMediaOrg/obs-rockchip/releases/tag/32.0.0-rockchip-browser)
